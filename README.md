@@ -1,4 +1,3 @@
-# Hello-world
-hello world project
+# maven-project
 
-ini hanyalah project percobaan 
+Simple Maven Project
